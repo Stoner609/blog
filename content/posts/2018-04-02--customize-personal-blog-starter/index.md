@@ -1,6 +1,7 @@
 ---
-title: Hello World
+title: How to customize the PersonalBlog starter's appearance
 subTitle: GatsbyJS starter instruction
+category: "sayings"
 cover: photo-1463852247062-1bbca38f7805-cover.jpg
 ---
 
@@ -16,14 +17,6 @@ root
   │   │   ├── globals.js
   │   │   └── theme.js
 ```
-
-...
-
-#### Front-end web development
-
-To read the whole instruction article - [How to customize the personalBlog starter's appearance](https://dev.greglobinski.com/customize-personal-blog-starter/) - you have to move to [Front-end web development with Greg](https://dev.greglobinski.com) website.
-
-...
 
 Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
