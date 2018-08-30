@@ -21,7 +21,7 @@ const Post = props => {
     <Article>
       <PostHeader title={title} subTitle={subTitle} date={date} />
       <Content html={html} />
-      <PostFooter author={author} post={post} slug={slug} facebook={facebook} />
+      {/* <PostFooter author={author} post={post} slug={slug} facebook={facebook} /> */}
     </Article>
   );
 };
